@@ -9,4 +9,7 @@ Contain the Coding question Solve by me
 
 4. Find Smallest and Second Largest element in an Array?   --SmallestAndSl.java
 
-5. Find Smallest and Second Largest element in an Array?   --SmallestSecondLarge.java
+5. Find Smallest and Second Largest element in an Array without using any Sorting Technique?   --SmallestSecondLarge.java
+
+6.  Write a Code to display the Second Smallest element in the Array?    --SecondSmallest.java
+
