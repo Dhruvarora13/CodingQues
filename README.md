@@ -13,3 +13,5 @@ Contain the Coding question Solve by me
 
 6.  Write a Code to display the Second Smallest element in the Array?    --SecondSmallest.java
 
+7.  Write a Code to display whether the Given Array ia a sorted array or not ?    --ArraySortedOrNot.java
+
