@@ -17,3 +17,4 @@ Contain the Coding question Solve by me
 
 8. Write a code in java to print the Subarray of the given Array and Also print the total no. of subarray Formed?     --Printsubarray.java
 
+9. Write a code in java to fing Total rain water Trapped?    --TrapingRainWater.java
