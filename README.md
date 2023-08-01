@@ -15,3 +15,5 @@ Contain the Coding question Solve by me
 
 7.  Write a Code to display whether the Given Array ia a sorted array or not ?    --ArraySortedOrNot.java
 
+8. Write a code in java to print the Subarray of the given Array and Also print the total no. of subarray Formed?     --Printsubarray.java
+
