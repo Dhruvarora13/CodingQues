@@ -19,3 +19,5 @@ Contain the Coding question Solve by me
 
 9. Write a code in java to fing Total rain water Trapped?    --TrapingRainWater.java
 10. Write the code in Java to Print the Spiral Matrix from a 4x4 Matrix?      -- SpiralMatrix.java
+
+11. Write the code in Java to Print the Spiral Matrix from a nxm Matrix?      -- SpiralMatrix3x3.java
