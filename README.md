@@ -21,3 +21,5 @@ Contain the Coding question Solve by me
 10. Write the code in Java to Print the Spiral Matrix from a 4x4 Matrix?      -- SpiralMatrix.java
 
 11. Write the code in Java to Print the Spiral Matrix from a nxm Matrix?      -- SpiralMatrix3x3.java
+
+12.  Write the code in Java to Print the Sum of Diagonal Element of nxn Matrix?      --DiagonalSumMatrix.java
