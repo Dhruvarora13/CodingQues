@@ -23,3 +23,5 @@ Contain the Coding question Solve by me
 11. Write the code in Java to Print the Spiral Matrix from a nxm Matrix?      -- SpiralMatrix3x3.java
 
 12.  Write the code in Java to Print the Sum of Diagonal Element of nxn Matrix?      --DiagonalSumMatrix.java
+
+12. KADANES ALGORITHM  TO find max sum of subarray?    --Kadanes.java 
