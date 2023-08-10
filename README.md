@@ -25,3 +25,5 @@ Contain the Coding question Solve by me
 12.  Write the code in Java to Print the Sum of Diagonal Element of nxn Matrix?      --DiagonalSumMatrix.java
 
 12. KADANES ALGORITHM  TO find max sum of subarray?    --Kadanes.java 
+
+13. 
