@@ -27,3 +27,7 @@ Contain the Coding question Solve by me
 12. KADANES ALGORITHM  TO find max sum of subarray?    --Kadanes.java 
 
 13. Write  code in java to print the Inverse of the number inputed by the user?      --Inverse.java
+
+14. Write the code in Java Rotate the Number By K rotation?     --RotateTheNumber.java
+
+15. Write the code in java to display the GCD and LCM of two number?       --FindGCDnLCM.java
