@@ -1,6 +1,6 @@
 class SearchInMatrix {
 
-    //Write a code in java to search the given element in the matrix?
+    //Write a code in java to search the given element in Sorted matrix?    Complexity is O(n+m) n is row & m is col 
     public static void main(String[] args) {
        int [][] mat = {{10,20,30,40},
                        {15,25,35,45},
