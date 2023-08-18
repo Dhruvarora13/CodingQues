@@ -1,4 +1,6 @@
 class TrapingRainWater {
+
+    
     // Write a code in java to fing Total rain water Trapped?
     public static void main(String[] args) {
 
