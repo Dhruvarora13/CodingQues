@@ -33,3 +33,5 @@ Contain the Coding question Solve by me
 15. Write the code in java to display the GCD and LCM of two number?       --FindGCDnLCM.java
 
 16. Write a code in java to search the given element in Sorted matrix?    Complexity is O(n) || O(m)   -- n is row & m is col      --SearchInSortedMatrix.java
+
+17. Write a code ion java to print Transpose of the given matrix?    --MatrixTranspose.java
