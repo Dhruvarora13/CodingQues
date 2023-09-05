@@ -35,3 +35,5 @@ Contain the Coding question Solve by me
 16. Write a code in java to search the given element in Sorted matrix?    Complexity is O(n) || O(m)   -- n is row & m is col      --SearchInSortedMatrix.java
 
 17. Write a code ion java to print Transpose of the given matrix?    --MatrixTranspose.java
+
+18. Write a code in java to print the index of the occured string?      --Firstoccurance.java
