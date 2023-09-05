@@ -37,3 +37,5 @@ Contain the Coding question Solve by me
 17. Write a code ion java to print Transpose of the given matrix?    --MatrixTranspose.java
 
 18. Write a code in java to print the index of the occured string?      --Firstoccurance.java
+
+19. Write a code in java to print the Secondlargest element in the array ?    --Secondlargest.java
